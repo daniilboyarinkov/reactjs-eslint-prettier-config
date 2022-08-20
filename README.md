@@ -2,6 +2,7 @@
 [prettier]: https://github.com/daniilboyarinkov/reactjs-eslint-prettier-config/bdw-react-eslint-prettier-configuration.md#Prettier
 [stylelint]: ./bdw-react-stylelint-purecss-configuration.md
 [vscode]: ./bdw-react-vscode-eslint-configuration.md
+[editorconfig]: ./bdw-editor-config.md
 
 # React — Eslint Prettier Stylelint config
 
@@ -14,4 +15,5 @@
 + [Eslint][eslint]
 + [Prettier][prettier]
 + [Stylelint][stylelint]
++ [EditorConfig][editorconfig]
 + [.vscode][vscode]
