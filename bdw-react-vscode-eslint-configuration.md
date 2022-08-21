@@ -47,7 +47,25 @@
       "color": "white",
       "border": "1px solid white",
       "backgroundColor": "#808080"
-    }
+    },
+    
+    // Fira code to improve code readability
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+
+    // vs code prompts on 
+  "javascript.inlayHints.enumMemberValues.enabled": true,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+
+  // Превью предложения
+  "editor.suggest.preview": true
   ],
 }
 ```
